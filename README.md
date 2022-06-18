@@ -4,8 +4,8 @@
 - Dataset which is used in this project is downloadable from the Irish Government’s Covid-19 dataset site.
 
 - There are three main parts in this project: 
-   - 01. Exploratory Data Analysis using Pandas (Load the data, Clean up the data, and Tidy the data)
-   - 02. Visualize the data using Pandas, Numpy and Plotly
-   - 03. Create an interactive, dynamic web application which showcases the visualisations from Part 02 using Dash, a micro-web framework.
+   - 01.Exploratory Data Analysis using Pandas (Load the data, Clean up the data, and Tidy the data)
+   - 02.Visualize the data using Pandas, Numpy and Plotly
+   - 03.Create an interactive, dynamic web application which showcases the visualisations from Part 02 using Dash, a micro-web framework.
 
 - Now, let's get started
